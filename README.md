@@ -4,8 +4,8 @@
  Automatic watering plant with Arduino Uno
 
 libraries:
-LyquidCrystal
-DHT
+1.LyquidCrystal
+2.DHT
 
 
 Components:
